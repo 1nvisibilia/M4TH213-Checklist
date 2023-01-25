@@ -1,9 +1,9 @@
 # M4TH213-Checklist
 
- - [ ] Basic Concepts
-    - [ ] Definitions 
-    - [ ] Direction Fields 
-    - [ ] Final Thoughts 
+ - [x] Basic Concepts
+    - [x] Definitions 
+    - [x] Direction Fields 
+    - [x] Final Thoughts 
  - [ ] First Order Differential Equations
     - [ ] Linear Equations
     - [ ] Separable Equations
