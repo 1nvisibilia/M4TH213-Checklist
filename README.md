@@ -3,7 +3,7 @@
  - [ ] Basic Concepts
     - [ ] Definitions 
     - [ ] Direction Fields 
-    - Final Thoughts 
+    - [ ] Final Thoughts 
  - [ ] First Order Differential Equations
     - [ ] Linear Equations
     - [ ] Separable Equations
