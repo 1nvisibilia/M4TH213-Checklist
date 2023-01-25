@@ -1,83 +1,83 @@
 # M4TH213-Checklist
 
- - Basic Concepts
-    - Definitions 
-    - Direction Fields 
+ - [ ] Basic Concepts
+    - [ ] Definitions 
+    - [ ] Direction Fields 
     - Final Thoughts 
- - First Order Differential Equations
-    - Linear Equations
-    - Separable Equations
-    - Exact Equations
-    - Bernoulli Differential Equations
-    - Substitutions
-    - Intervals of Validity
-    - Modeling with First Order Differential Equations
-    - Equilibrium Solutions
-    - Euler’s Method
- - Second Order Differential Equations
-    - Basic Concepts
-    - Real Roots
-    - Complex Roots
-    - Repeated Roots
-    - Reduction of Order
-    - Fundamental Sets of Solutions
-    - More on the Wronskian
-    - Nonhomogeneous Differential Equations
-    - Undetermined Coefficients
-    - Variation of Parameters
-    - Mechanical Vibrations
- - Laplace Transforms
-    - The Definition
-    - Laplace Transforms
-    - Inverse Laplace Transforms
-    - Step Functions
-    - Solving IVPs' with Laplace Transforms
-    - Nonconstant Coefficient IVP’s
-    - IVP’s with Step Functions
-    - Dirac Delta Function
-    - Convolution Integral
-    - Table of Laplace Transforms
- - Systems of Differential Equations
-    - Review : Systems of Equations
-    - Review : Matrices and Vectors
-    - Review : Eigenvalues and Eigenvectors
-    - Systems of Differential Equations
-    - Solutions to Systems
-    - Phase Plane
-    - Real Eigenvalues
-    - Complex Eigenvalues
-    - Repeated Eigenvalues
-    - Nonhomogeneous Systems
-    - Laplace Transforms
-    - Modeling
- - Series Solutions to Differential Equations
-    - Review : Power Series
-    - Review : Taylor Series
-    - Series Solutions
-    - Euler Equations
- - Higher Order Differential Equations
-    - Basic Concepts for nth Order Linear Equations
-    - Linear Homogeneous Differential Equations
-    - Undetermined Coefficients
-    - Variation of Parameters
-    - Laplace Transforms
-    - Systems of Differential Equations
-    - Series Solutions
- - Boundary Value Problems & Fourier Series
-    - Boundary Value Problems
-    - Eigenvalues and Eigenfunctions
-    - Periodic Functions and Orthogonal Functions
-    - Fourier Sine Series
-    - Fourier Cosine Series
-    - Fourier Series
-    - Convergence of Fourier Series
- - Partial Differential Equations
-    - The Heat Equation
-    - The Wave Equation
-    - Terminology
-    - Separation of Variables
-    - Solving the Heat Equation
-    - Heat Equation with Non-Zero Temperature Boundaries
-    - Laplace’s Equation
-    - Vibrating String
-    - Summary of Separation of Variables
+ - [ ] First Order Differential Equations
+    - [ ] Linear Equations
+    - [ ] Separable Equations
+    - [ ] Exact Equations
+    - [ ] Bernoulli Differential Equations
+    - [ ] Substitutions
+    - [ ] Intervals of Validity
+    - [ ] Modeling with First Order Differential Equations
+    - [ ] Equilibrium Solutions
+    - [ ] Euler’s Method
+ - [ ] Second Order Differential Equations
+    - [ ] Basic Concepts
+    - [ ] Real Roots
+    - [ ] Complex Roots
+    - [ ] Repeated Roots
+    - [ ] Reduction of Order
+    - [ ] Fundamental Sets of Solutions
+    - [ ] More on the Wronskian
+    - [ ] Nonhomogeneous Differential Equations
+    - [ ] Undetermined Coefficients
+    - [ ] Variation of Parameters
+    - [ ] Mechanical Vibrations
+ - [ ] Laplace Transforms
+    - [ ] The Definition
+    - [ ] Laplace Transforms
+    - [ ] Inverse Laplace Transforms
+    - [ ] Step Functions
+    - [ ] Solving IVPs' with Laplace Transforms
+    - [ ] Nonconstant Coefficient IVP’s
+    - [ ] IVP’s with Step Functions
+    - [ ] Dirac Delta Function
+    - [ ] Convolution Integral
+    - [ ] Table of Laplace Transforms
+ - [ ] Systems of Differential Equations
+    - [ ] Review : Systems of Equations
+    - [ ] Review : Matrices and Vectors
+    - [ ] Review : Eigenvalues and Eigenvectors
+    - [ ] Systems of Differential Equations
+    - [ ] Solutions to Systems
+    - [ ] Phase Plane
+    - [ ] Real Eigenvalues
+    - [ ] Complex Eigenvalues
+    - [ ] Repeated Eigenvalues
+    - [ ] Nonhomogeneous Systems
+    - [ ] Laplace Transforms
+    - [ ] Modeling
+ - [ ] Series Solutions to Differential Equations
+    - [ ] Review : Power Series
+    - [ ] Review : Taylor Series
+    - [ ] Series Solutions
+    - [ ] Euler Equations
+ - [ ] Higher Order Differential Equations
+    - [ ] Basic Concepts for nth Order Linear Equations
+    - [ ] Linear Homogeneous Differential Equations
+    - [ ] Undetermined Coefficients
+    - [ ] Variation of Parameters
+    - [ ] Laplace Transforms
+    - [ ] Systems of Differential Equations
+    - [ ] Series Solutions
+ - [ ] Boundary Value Problems & Fourier Series
+    - [ ] Boundary Value Problems
+    - [ ] Eigenvalues and Eigenfunctions
+    - [ ] Periodic Functions and Orthogonal Functions
+    - [ ] Fourier Sine Series
+    - [ ] Fourier Cosine Series
+    - [ ] Fourier Series
+    - [ ] Convergence of Fourier Series
+ - [ ] Partial Differential Equations
+    - [ ] The Heat Equation
+    - [ ] The Wave Equation
+    - [ ] Terminology
+    - [ ] Separation of Variables
+    - [ ] Solving the Heat Equation
+    - [ ] Heat Equation with Non-Zero Temperature Boundaries
+    - [ ] Laplace’s Equation
+    - [ ] Vibrating String
+    - [ ] Summary of Separation of Variables
