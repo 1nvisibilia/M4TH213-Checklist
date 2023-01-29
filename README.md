@@ -11,7 +11,7 @@
     - [ ] Bernoulli Differential Equations
     - [ ] Substitutions
     - [ ] Intervals of Validity
-    - [ ] Modeling with First Order Differential Equations
+    - [x] Modeling with First Order Differential Equations
     - [ ] Equilibrium Solutions
     - [ ] Euler’s Method
  - [ ] Second Order Differential Equations
