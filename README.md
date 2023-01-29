@@ -27,7 +27,7 @@
     - [ ] Variation of Parameters
     - [ ] Mechanical Vibrations
  - [ ] Laplace Transforms
-    - [ ] The Definition
+    - [x] The Definition
     - [ ] Laplace Transforms
     - [ ] Inverse Laplace Transforms
     - [ ] Step Functions
