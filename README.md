@@ -5,7 +5,7 @@
     - [x] Direction Fields 
     - [x] Final Thoughts 
  - [ ] First Order Differential Equations
-    - [ ] Linear Equations
+    - [x] Linear Equations
     - [ ] Separable Equations
     - [ ] Exact Equations
     - [ ] Bernoulli Differential Equations
