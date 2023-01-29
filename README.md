@@ -6,7 +6,7 @@
     - [x] Final Thoughts 
  - [ ] First Order Differential Equations
     - [x] Linear Equations
-    - [ ] Separable Equations
+    - [x] Separable Equations
     - [ ] Exact Equations
     - [ ] Bernoulli Differential Equations
     - [ ] Substitutions
