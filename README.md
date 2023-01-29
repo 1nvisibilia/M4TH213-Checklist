@@ -28,8 +28,8 @@
     - [ ] Mechanical Vibrations
  - [ ] Laplace Transforms
     - [x] The Definition
-    - [ ] Laplace Transforms
-    - [ ] Inverse Laplace Transforms
+    - [x] Laplace Transforms
+    - [x] Inverse Laplace Transforms
     - [ ] Step Functions
     - [ ] Solving IVPs' with Laplace Transforms
     - [ ] Nonconstant Coefficient IVP’s
