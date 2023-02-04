@@ -30,7 +30,7 @@
     - [x] The Definition
     - [x] Laplace Transforms
     - [x] Inverse Laplace Transforms
-    - [ ] Step Functions
+    - [x] Step Functions
     - [ ] Solving IVPs' with Laplace Transforms
     - [ ] Nonconstant Coefficient IVP’s
     - [ ] IVP’s with Step Functions
