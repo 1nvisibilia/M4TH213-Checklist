@@ -35,7 +35,7 @@
     - [ ] Nonconstant Coefficient IVP’s
     - [ ] IVP’s with Step Functions
     - [x] Dirac Delta Function
-    - [ ] Convolution Integral
+    - [x] Convolution Integral
     - [ ] Table of Laplace Transforms
  - [ ] Systems of Differential Equations
     - [ ] Review : Systems of Equations
