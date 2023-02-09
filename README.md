@@ -34,7 +34,7 @@
     - [x] Solving IVPs' with Laplace Transforms
     - [ ] Nonconstant Coefficient IVP’s
     - [ ] IVP’s with Step Functions
-    - [ ] Dirac Delta Function
+    - [x] Dirac Delta Function
     - [ ] Convolution Integral
     - [ ] Table of Laplace Transforms
  - [ ] Systems of Differential Equations
